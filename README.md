@@ -19,7 +19,6 @@ This Video Streaming App is built using Java Spring Boot as the backend framewor
    </ul>
 
 3. <b>User Authentication & Authorization (Spring Security):</b>
-<br>
    <ul>
       <li><b>JWT-based Authentication:</b> The app uses JSON Web Tokens (JWT) for user sessions, ensuring secure access to video content.</li>
    </ul>
