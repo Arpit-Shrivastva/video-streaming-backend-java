@@ -90,8 +90,8 @@ public class VideoController {
                 .body(resource);
     }
 
+    
     //stream videos in chunks
-
     @GetMapping("stream/range/{videoId")
     public ResponseEntity<Resource> streamVideoRnge(
             @PathVariable String videoId,
@@ -210,4 +210,3 @@ public class VideoController {
                 .body(resource);
     }
 }
-
