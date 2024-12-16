@@ -1,6 +1,4 @@
 package com.stream.app.Vide_Streaming_Backend.Payload;
-
-
 import lombok.*;
 
 @AllArgsConstructor
