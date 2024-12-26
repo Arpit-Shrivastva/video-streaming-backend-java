@@ -62,7 +62,6 @@ public class VideoServiceImpl implements VideoService {
             String contentType = file.getContentType();
             InputStream inputStream = file.getInputStream();
 
-
             //file path
             String cleanFileName = StringUtils.cleanPath(filename);
 
